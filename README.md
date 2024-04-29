@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN Stack | Backend developer from Uzbekistan</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sunnatulloh&label=Profile%20views&color=0e75b6&style=flat" alt="Sunnatulloh" /> </p>
+<p align="left"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Sunnatulloh" /> </p>
 
 
 - 🌱 Learning TypeScript, Mastering React ⚡️
